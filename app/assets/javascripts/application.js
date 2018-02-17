@@ -17,3 +17,4 @@
 //= require jquery_ujs
 //= require showdown
 //= require react
+//= require bootstrap-sprockets
